@@ -1,3 +1,1 @@
-N Queens
-
-This project contains interview coding challenges.
+Solutions to tasks on 0x05. N Queens
