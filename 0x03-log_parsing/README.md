@@ -1,5 +1,1 @@
-Log Parsing
-
-This project contains interview coding challenges.
-
-
+Solutions to tasks on 0x03. Log Parsing
